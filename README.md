@@ -6,7 +6,7 @@ https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis
 
 Methodology and Approach- Revised
 
-
+https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Methodology%20and%20Approach%20-%20Revised.pdf
 
 01_BitcoinTweets_SentimentAnalysis_Data
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/01_BitcoinTweets_SentimentAnalysis_Data.ipynb
