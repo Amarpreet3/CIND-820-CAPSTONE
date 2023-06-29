@@ -1,14 +1,14 @@
 # SENTIMENT ANALYSIS OF CRYPTOCURRENCY TWEETS: PREDICTING BITCOIN MARKET SENTIMENT AND PRICE MOVEMENTS USING MACHINE LEARNING
 
-Abstract- Revised
+**Abstract- Revised**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Abstract%20Revised.pdf
 
-Methodology and Approach- Revised
+**Methodology and Approach- Revised**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Methodology%20and%20Approach%20-%20Revised.pdf
 
-01_BitcoinTweets_SentimentAnalysis_Data
+**01_BitcoinTweets_SentimentAnalysis_Data**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/01_BitcoinTweets_SentimentAnalysis_Data.ipynb
 
@@ -24,7 +24,7 @@ Sentiment Analysis with TextBlob
 
 Data Preparation for Analysis
 
-02_BitcoinTweets_SentimentAnalysis_EDA
+**02_BitcoinTweets_SentimentAnalysis_EDA**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/02_BitcoinTweets_SentimentAnalysis_EDA.ipynb
 
@@ -54,7 +54,7 @@ Sentiment Analysis Vs Price [Close]
 
 Sentiment Analysis Vs Price Change Delta
 
-03_BitcoinTweets_SentimentAnalysis_Classification_Sentiment
+**03_BitcoinTweets_SentimentAnalysis_Classification_Sentiment**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/03_BitcoinTweets_SentimentAnalysis_Classification_Sentiment.ipynb
 
@@ -78,7 +78,7 @@ Hyperparameter Tuning
 
 Model TPOT
 
-04_BitcoinTweets_SentimentAnalysis_Price_and _Delta Prediction
+**04_BitcoinTweets_SentimentAnalysis_Price_and _Delta Prediction**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/04_BitcoinTweets_SentimentAnalysis_Price_and__Delta_Prediction.ipynb
 
@@ -100,7 +100,7 @@ Cross Validation of Models
 
 Hyperparameter Tuning
 
-Time Series Prediction : Five various Cryptocurrencies based on Historical Data
+**Time Series Prediction : Five various Cryptocurrencies based on Historical Data**
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Codes
 
