@@ -104,6 +104,8 @@ Hyperparameter Tuning
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Codes
 
+EDA
+
 Models, Evaluation, Cross Validation and Predictions:
 
 LSTM
