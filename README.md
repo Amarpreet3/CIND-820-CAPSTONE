@@ -99,3 +99,17 @@ Neural Network Regressor (MLP)
 Cross Validation of Models
 
 Hyperparameter Tuning
+
+Time Series Prediction : Five various Cryptocurrencies based on Historical Data
+
+https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Codes
+
+Models, Evaluation, Cross Validation and Predictions:
+
+LSTM
+
+SMA_ES
+
+ARIMA
+
+Prophet
