@@ -2,7 +2,13 @@
 
 **Final report**
 
+Has Final Reports
+
 [https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Abstract%20Revised.pdf](https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Reports)
+
+**Sentiment Analysis**
+
+All the Sentiment Analysis under four files as below,  all the codes and dataset is saved under this folder
 
 **01_BitcoinTweets_SentimentAnalysis_Data**
 
@@ -97,6 +103,15 @@ Cross Validation of Models
 Hyperparameter Tuning
 
 **Time Series Prediction : Five various Cryptocurrencies based on Historical Data**
+
+**Codes** 
+
+Has all Time Series Codes
+
+**Dataset**
+
+Has all the Time Series Dataset
+
 
 https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Codes
 
