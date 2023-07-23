@@ -1,12 +1,8 @@
 # SENTIMENT ANALYSIS OF CRYPTOCURRENCY TWEETS: PREDICTING BITCOIN MARKET SENTIMENT AND PRICE MOVEMENTS USING MACHINE LEARNING
 
-**Abstract- Revised**
+**Final report**
 
-https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Abstract%20Revised.pdf
-
-**Methodology and Approach- Revised**
-
-https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Methodology%20and%20Approach%20-%20Revised.pdf
+[https://github.com/Amarpreet3/CIND-820-CAPSTONE/blob/main/Sentimental%20Analysis/Abstract%20Revised.pdf](https://github.com/Amarpreet3/CIND-820-CAPSTONE/tree/main/Reports)
 
 **01_BitcoinTweets_SentimentAnalysis_Data**
 
